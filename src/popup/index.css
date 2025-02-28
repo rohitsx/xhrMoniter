@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.main {
+  height: 400px;
+  width: 480px;
+}
